@@ -27,3 +27,34 @@ tr {
 
 h1
 {color: white;}
+
+.nawar
+
+{
+    background-image: url('potofong.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bawang
+{
+  color: blanchedalmond;
+}
+
+.darah
+{color: white}
+
+.weh
+{color:white;
+text-align: center;
+}
+
+.rewo
+{
+  color:black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.rounded-image
+{border-radius: 200px;
+    -webkit-border-radius: 200px;
+    -moz-border-radius: 200px;}
