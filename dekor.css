@@ -1,0 +1,43 @@
+body 
+{
+    background-image: url('potofong.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.rounded-image
+{border-radius: 200px;
+    -webkit-border-radius: 200px;
+    -moz-border-radius: 200px;}
+
+.reva
+{
+    width:auto;
+	height:90%;
+	padding:20px;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-top: -250px;
+	margin-left: -2px;
+}
+
+.naon
+{width:auto;
+height: 200px;
+margin-left: 50px
+}
+
+.jauh
+{
+    color:white;
+text-align: center;
+font-style: italic;
+}
+
+.crl
+{
+    margin-left: 100px;
+}
+
